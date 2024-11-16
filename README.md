@@ -1,6 +1,7 @@
 # OOP-Ray-Tracer
 Object Orientation Programming: Optical Ray Tracer Simulation
-The report is available at: 
+
+The full report is available at: https://github.com/mtwang0912/OOP-Ray-Tracer/blob/main/02020640_ray.pdf
 
 # Overview of Achievements
 The project successfully developed a simulation to model the behavior of light rays interacting with optical elements, focusing on spherical aberrations. The simulation was capable of:
